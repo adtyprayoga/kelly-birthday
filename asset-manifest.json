@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kelly-birthday/static/css/main.3e84e946.css",
+    "main.js": "/kelly-birthday/static/js/main.56ec8e35.js",
+    "static/js/787.5f6ef279.chunk.js": "/kelly-birthday/static/js/787.5f6ef279.chunk.js",
+    "static/media/bg.gif": "/kelly-birthday/static/media/bg.546ae5a84429c73d0ea8.gif",
+    "index.html": "/kelly-birthday/index.html",
+    "main.3e84e946.css.map": "/kelly-birthday/static/css/main.3e84e946.css.map",
+    "main.56ec8e35.js.map": "/kelly-birthday/static/js/main.56ec8e35.js.map",
+    "787.5f6ef279.chunk.js.map": "/kelly-birthday/static/js/787.5f6ef279.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e84e946.css",
+    "static/js/main.56ec8e35.js"
+  ]
+}
