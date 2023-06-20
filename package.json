@@ -1,6 +1,7 @@
 {
   "name": "kelly-birthday",
   "version": "0.1.0",
+  "homepage": "https://adtyprayoga.github.io/kelly-birthday",
   "private": true,
   "dependencies": {
     "@emotion/css": "^11.11.2",
@@ -15,6 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
++   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -40,6 +43,7 @@
   },
   "devDependencies": {
     "file-loader": "^6.2.0",
+    "gh-pages": "^5.0.0",
     "url-loader": "^4.1.1"
   }
 }
